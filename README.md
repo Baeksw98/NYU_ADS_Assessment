@@ -4,7 +4,6 @@ Authors: Sangwon Baek and Simone Rittenhouse
 Institution: Center for Data Science, New York University  
 Course: DS-UA 202: Responsible Data Science  
 Professor: George Wood  
-Date: May 9, 2022
 
 ## Overview
 
